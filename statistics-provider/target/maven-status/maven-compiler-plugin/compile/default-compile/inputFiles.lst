@@ -1,0 +1,13 @@
+/Users/rperiasamy/Documents/workspace/norkom6/statistics-provider/src/main/java/com/n26/statistics/controller/impl/StatisticsControllerImpl.java
+/Users/rperiasamy/Documents/workspace/norkom6/statistics-provider/src/main/java/com/n26/statistics/service/impl/StatisticsServiceImpl.java
+/Users/rperiasamy/Documents/workspace/norkom6/statistics-provider/src/main/java/com/n26/statistics/controller/impl/TransactionControllerImpl.java
+/Users/rperiasamy/Documents/workspace/norkom6/statistics-provider/src/main/java/com/n26/statistics/model/StatisticsResponse.java
+/Users/rperiasamy/Documents/workspace/norkom6/statistics-provider/src/main/java/com/n26/statistics/storage/TransactionStorage.java
+/Users/rperiasamy/Documents/workspace/norkom6/statistics-provider/src/main/java/com/n26/statistics/service/ITransactionService.java
+/Users/rperiasamy/Documents/workspace/norkom6/statistics-provider/src/main/java/com/n26/statistics/controller/IStatisticsController.java
+/Users/rperiasamy/Documents/workspace/norkom6/statistics-provider/src/main/java/com/n26/statistics/service/IStatisticsService.java
+/Users/rperiasamy/Documents/workspace/norkom6/statistics-provider/src/main/java/com/n26/statistics/service/impl/TransactionServiceImpl.java
+/Users/rperiasamy/Documents/workspace/norkom6/statistics-provider/src/main/java/com/n26/statistics/springboot/SpringBootLoader.java
+/Users/rperiasamy/Documents/workspace/norkom6/statistics-provider/src/main/java/com/n26/statistics/controller/ITransactionController.java
+/Users/rperiasamy/Documents/workspace/norkom6/statistics-provider/src/main/java/com/n26/statistics/utils/TransactionUtil.java
+/Users/rperiasamy/Documents/workspace/norkom6/statistics-provider/src/main/java/com/n26/statistics/model/Transaction.java
